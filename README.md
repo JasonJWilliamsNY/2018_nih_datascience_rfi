@@ -7,13 +7,21 @@ NIH [Strategic Plan for Data Science](https://grants.nih.gov/grants/rfi/NIH-Stra
 Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73).
 
 ## How to contribute
-My personal [response](./response.md) is open for contribution. Mostly I am
-interested in 1) getting input on ideas I've missed, 2) corrections, 3) spurring
-others to comment themselves - freely lifting any language or citations they
-agree with from my text. Please have at it, but let's try to keep it short.
+
+At least a few folks have expressed interest in collaborating on a response.
+Hopefully this results in NIH getting the same messages multiple times. Hope
+folks chime in on how to make that happen, but in my (Jason) opinion we have to
+keep our message short and to the point ... this is a strategic plan so nuanced
+comments will just get deflected.
+
+Repo is organized so that your comments on a specific goal can be captured
+according to the headings on the NIH feedback form.
+
 Please submit a pull request, or (and especially if you aren't familiar with
 Github) please click the issues tab to open an issue, or Tweet/email me (email =
 my last name @ cshl.edu).
+
+
 
 ## Contributors
 Besides the enormous sense of pride your contribution will no doubt create,
