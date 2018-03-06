@@ -6,6 +6,19 @@ On March 5th, 2018 [this post](https://nexus.od.nih.gov/all/2018/03/05/requestin
 NIH [Strategic Plan for Data Science](https://grants.nih.gov/grants/rfi/NIH-Strategic-Plan-for-Data-Science.pdf).
 Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73).
 
+**This repo contains language that you can use in your response to this RFI**
+
+## How to use these comments
+
+
+Importantly, (and related to the writing tip below) we need every member of the
+community to create a lot of noise. Your comment is your vote. Review the arguments/points in these comments and use them to submit at [this form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73). If NIH sees enough of
+the same comments from enough people the message will get across.
+Get your colleagues involved too! Feel free to say things in your own words, or
+pull directly from language used here. Only submit comments that represent your
+views; see [guide notice instructions](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-134.html)
+
+
 ## How to contribute
 
 At least a few folks have expressed interest in collaborating on a response.
@@ -21,6 +34,15 @@ Please submit a pull request, or (and especially if you aren't familiar with
 Github) please click the issues tab to open an issue, or Tweet/email me (email =
 my last name @ cshl.edu).
 
+### Writing tip
+
+Be clear - a RFI is not the place for subtlety. While I can’t speak on behalf
+of NIH, what happens is that comments are classified as good/positive or
+bad/negative and summed up. That’s it. Your carefully crafted arguments won’t
+mean much if NIH does not receive a clear message that “Goal 1”, or
+"Objective 4-3" got 50 positive comments and 3 negative comments. Hopefully
+someone comes back to appreciate the cleverness of your prose, but make sure
+your comment is to-the-point.
 
 
 ## Contributors
