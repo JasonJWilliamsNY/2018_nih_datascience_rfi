@@ -18,6 +18,9 @@ Get your colleagues involved too! Feel free to say things in your own words, or
 pull directly from language used here. Only submit comments that represent your
 views; see [guide notice instructions](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-134.html)
 
+P.S. If you like, include a link to this repo in your submitted comments so
+NIH can see updates: https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi 
+
 
 ## How to contribute
 
