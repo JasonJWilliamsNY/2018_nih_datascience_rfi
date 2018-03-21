@@ -46,6 +46,9 @@ constructed ad hoc. Typically, training is delivered by staff/faculty with a
 high level of bioinformatics/data science domain expertise, but little to no
 guidance in andragogy, cognitive science, or evaluation.
 
+**Note**: Updates to this response by community members will be found at:
+https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi
+
 ## Opportunities for NIH to partner in achieving these goals
 
 We present comments here in the hopes that NIH will consider bold action in this
