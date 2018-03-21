@@ -52,7 +52,7 @@ repo in the response in case it continues to grow). This will be more obvious
 than looking through commit histories, and I will only put any names here if
 you tell me you want acknowledgement - some may wish to be somewhat anonymous.
 
-- Jason Williams - Cold Spring Harbor Laboratory, NY
-- - **Bio sentence**: Diversity advocate, founder CSHL Biological Data Science Meeting,
+- -Jason Williams - Cold Spring Harbor Laboratory, NY
+  - **Bio sentence**: Diversity advocate, founder CSHL Biological Data Science Meeting,
     Software Carpentry instructor and former foundation Chair, External consultant to
     NIH Data Commons, #underrepresentedinSTEM
