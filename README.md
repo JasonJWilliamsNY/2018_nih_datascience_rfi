@@ -59,3 +59,7 @@ you tell me you want acknowledgement - some may wish to be somewhat anonymous.
   - **Bio sentence**: Diversity advocate, founder CSHL Biological Data Science Meeting,
     Software Carpentry instructor and former foundation Chair, External consultant to
     NIH Data Commons, #underrepresentedinSTEM
+    
+- Michael Love - University of North Carolina at Chapel Hill, NC
+  - **Bio sentence**: statistician and computational biologists, I maintain a number of 
+    R/Bioconductor packages and workflows for genomic data analysis.
