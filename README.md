@@ -63,3 +63,8 @@ you tell me you want acknowledgement - some may wish to be somewhat anonymous.
 - Michael Love - University of North Carolina at Chapel Hill, NC
   - **Bio sentence**: statistician and computational biologists, I maintain a number of 
     R/Bioconductor packages and workflows for genomic data analysis.
+    
+- Bastian Greshake Tzovaras - Lawrence Berkeley National Laboratory, CA
+  - **Bio sentence**: Co-founder of openSNP, Director of Research at Open Humans and 
+    Visiting Scholar at the Berkeley Lab. 
+ 
