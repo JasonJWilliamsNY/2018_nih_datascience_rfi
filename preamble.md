@@ -17,23 +17,23 @@ SPDS:
 
 - Goal 1: Support a Highly Efficient and Effective Biomedical Research Data
   Infrastructure
-- - Sample evaluation metric: “quantity of cloud storage and computing used
+  - Sample evaluation metric: “quantity of cloud storage and computing used
     by NIH and by NIH-funded researchers”
 
 - Goal 2: Promote Modernization of the Data-Resources Ecosystem
-- - Sample evaluation metric: “quantity of databases and knowledgebases
+  - Sample evaluation metric: “quantity of databases and knowledgebases
     supported using resource-based funding mechanisms"
 
 - Goal 3: Support the Development and Dissemination of Advanced Data Management,
   Analytics, and Visualization Tools
-- - Sample evaluation metric: “quantity of new software tools developed”
+  - Sample evaluation metric: “quantity of new software tools developed”
 
 - Goal 4: Enhance Workforce Development for Biomedical Data Science
-- - Sample evaluation metric: “quantity of new data science-related training
+   - Sample evaluation metric: “quantity of new data science-related training
     programs for NIH staff and participation in these programs”
 
 - Goal 5: Enact Appropriate Policies to Promote Stewardship and Sustainability
-- - Sample evaluation metric: “establishment and use of open-data licenses”
+   - Sample evaluation metric: “establishment and use of open-data licenses”
   (a count metric)
 
 These metrics (which are highly representative of evaluations SPDS proposes) are
