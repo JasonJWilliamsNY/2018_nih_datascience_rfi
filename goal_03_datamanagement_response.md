@@ -13,9 +13,34 @@ funded Bioconductor Project as a decade-long successful use case in providing a
 unified interface for more than 1,000 "high-quality, open-source data
 management, analytics, and visualization tools".
 
+Goal 3: In general, implementation tactics are plausible, but not evidence-based.
+Rather than propose that each step NIH takes to develop a tactic is supported by
+a body of research, the lowest-hanging fruit (and most productive solution) is
+to have the community develop an actual set of strategic targets, with clear
+metrics for evaluation.
+
+Goal 3: The SPDS plan underestimates the pervasiveness and persistence of
+bad/outdated software and methods (See: https://www.the-scientist.com/?articles.view/articleNo/51260/title/Scientists-Continue-to-Use-Outdated-Methods/). It is completely unclear how separating evaluation and
+funding for tool development and dissemination from support for databases and knowledgebases (this sentence from the SPDS is itself unclear) will address
+this problem. This may help, but is our knowledge an unvetted hypothesis.
+
+Goal 3: Although the SPDS does not make any strategy clear, the goal of
+supporting tools and workflows (objective 3-1) is a good one. We further agree
+that partnership is exactly the way that this needs to be pursued.
+
+Goal 3: The metrics for this sophisticated set of objectives are catastrophic.
+There is no way that the objectives stated for Goal 3 can be effectively
+measured or succeed.
+
 ## Opportunities for NIH to partner in achieving these goals
 
-
+Goal 3: There are a variety of groups the NIH can partner with. The number of
+potential individual investigators is too numerous to list, but these
+individuals should be relatively easy to identify by means of their scholarly
+contributions (carefully avoiding journal publications as a primary metric).
+Reaching out and partnering with groups such as the Open Bioinformatics
+Foundation and societies like ISMB would be an ideal way for NIH to foster deep
+community involvement. 
 
 ##  Additional concepts that should be included in the plan
 
