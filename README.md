@@ -21,7 +21,7 @@ thing you find here, or write your own response (**Please consider submitting
 your own responses here for the community to use, or review even after the
 RFI due date**).
 
-> **Tip**: The NIH form only has 5 text submission fields. Copy the preamble into 
+> **Tip**: The NIH form only has 5 text submission fields. Copy the preamble into
 > the first field, along with your comments on the "appropriateness of goals."
 > All other subheadings in our combined response doc match the submission form
 > headings.
@@ -32,8 +32,12 @@ Invalid responses (e.g. automated, or in some other way disqualified) will not
 be accepted. Only submit comments that represent your
 views; see [guide notice instructions](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-134.html)
 
+**A [Similar RFI](https://nlmdirector.nlm.nih.gov/2018/03/20/next-generation-data-science-research-challenges/) only generated 53 responses. Your voice will be heard!**
+
 **Thanks for your contribution** It is a responsibility to ensure NIH can act
 on the most accurate and best possible advice.
+
+
 
 ## How to contribute
 
