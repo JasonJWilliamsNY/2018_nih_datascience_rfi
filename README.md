@@ -17,7 +17,7 @@ If you don't have that much time, read one of the Goal sections most relevant to
 you (individual sections are as short as 10 minutes of reading).
 
 2. We have created a preamble and specific responses to each goal in our
-[collected responses](./combined_responses). You may copy and paste all/some/none
+[collected responses](./combined_responses.md). You may copy and paste all/some/none
 of what you agree with using the online NIH form (step 3). You may modify
 anything you find here, or write your own response (**Please consider submitting
 your own responses here for the community to use, or review even after the
