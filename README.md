@@ -56,7 +56,7 @@ that made them, and are not the opinions of other contributors, their employers,
 or anyone else.
 
 
-- -Jason Williams - Cold Spring Harbor Laboratory, NY
+- Jason Williams - Cold Spring Harbor Laboratory, NY
   - **Bio sentence**: Diversity advocate, founder CSHL Biological Data Science Meeting,
     Software Carpentry instructor and former foundation Chair, External consultant to
     NIH Data Commons, #underrepresentedinSTEM
