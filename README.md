@@ -10,54 +10,39 @@ Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/r
 
 ## How to use these comments
 
+1. If possible, read the entire [Strategic Plan](https://grants.nih.gov/grants/rfi/NIH-Strategic-Plan-for-Data-Science.pdf),
+if you don't have that much time, read one of the Goal sections most relevant to
+you (should be about 10 minutes of reading).
 
-Importantly, (and related to the writing tip below) we need every member of the
-community to create a lot of noise. Your comment is your vote. Review the arguments/points in these comments and use them to submit at [this form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73). If NIH sees enough of
-the same comments from enough people the message will get across.
-Get your colleagues involved too! Feel free to say things in your own words, or
-pull directly from language used here. Only submit comments that represent your
+2. We have created a preamble and specific responses to each goal in our
+[collected responses](./combined_responses). You may copy and paste all/some/none
+of what you agree with using the online NIH form (step 3). You may modify any
+thing you find here, or write your own response (**Please consider submitting
+your own responses here for the community to use, or review even after the
+RFI due date**).
+
+3. By **April 2, 2018 11:59:59 PM EDT** access the NIH [online form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73), write in and/or
+copy-paste your responses. Please follow all of the form instructions/guidelines,
+Invalid responses (e.g. automated, or in some other way disqualified) will not
+be accepted. Only submit comments that represent your
 views; see [guide notice instructions](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-134.html)
 
-P.S. If you like, include a link to this repo in your submitted comments so
-NIH can see updates: https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi
-
+**Thanks for your contribution** It is a responsibility to ensure NIH can act
+on the most accurate and best possible advice.
 
 ## How to contribute
-
-At least a few folks have expressed interest in collaborating on a response.
-Hopefully this results in NIH getting the same messages multiple times. Hope
-folks chime in on how to make that happen, but in my (Jason) opinion we have to
-keep our message short and to the point ... this is a strategic plan so nuanced
-comments will just get deflected.
-
-Repo is organized so that your comments on a specific goal can be captured
-according to the headings on the NIH feedback form.
 
 Please submit a pull request, or (and especially if you aren't familiar with
 Github) please click the issues tab to open an issue, or Tweet/email me (email =
 my last name @ cshl.edu).
 
-### Writing tip
-
-Be clear - a RFI is not the place for subtlety. While I can’t speak on behalf
-of NIH, what happens is that comments are classified as good/positive or
-bad/negative and summed up. That’s it. Your carefully crafted arguments won’t
-mean much if NIH does not receive a clear message that “Goal 1”, or
-"Objective 4-3" got 50 positive comments and 3 negative comments. Hopefully
-someone comes back to appreciate the cleverness of your prose, but make sure
-your comment is to-the-point.
-
+**Even after the due date**, please feel free to post here for others to see.
 
 ## Contributors
-Besides the enormous sense of pride your contribution will no doubt create,
-please add your name here in case anyone from NIH looks (I'll add a link to this
-repo in the response in case it continues to grow). This will be more obvious
-than looking through commit histories, and I will only put any names here if
-you tell me you want acknowledgement - some may wish to be somewhat anonymous.
 
 **Disclaimer**: Contributions are only the personal opinions of the individuals
 that made them, and are not the opinions of other contributors, their employers,
-or anyone else. 
+or anyone else.
 
 
 - -Jason Williams - Cold Spring Harbor Laboratory, NY
