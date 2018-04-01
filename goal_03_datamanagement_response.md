@@ -40,7 +40,7 @@ individuals should be relatively easy to identify by means of their scholarly
 contributions (carefully avoiding journal publications as a primary metric).
 Reaching out and partnering with groups such as the Open Bioinformatics
 Foundation and societies like ISMB would be an ideal way for NIH to foster deep
-community involvement. 
+community involvement.
 
 ##  Additional concepts that should be included in the plan
 
@@ -80,3 +80,8 @@ Development for Biomedical Data Science" (Goal 4).
 
 
 ## Any other topic the respondent feels is relevant for NIH to consider in developing this strategic plan
+
+Goal 3: There are so many potential emerging technologies and themes,
+understandably, this plan should not be a laundry list of things to try. This
+objective need to be reconceived to articulate how those solutions will be
+collected, pursued, and evaluated. No such vision is clearly present.
