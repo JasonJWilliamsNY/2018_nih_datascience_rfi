@@ -99,7 +99,7 @@ Additionally, as an exercise, the NIH review form has been filled out for this
 Plan to explore how a realistic NIH scientific reviewer (who did the exercise)
 might score such a proposal
 
- https://docs.google.com/document/d/1XxQLORoTm2lkucQz6k3QdgNOARDrvU3zx_svT0PX_c0/edit
+https://docs.google.com/document/d/1FWS2ITl_zFNd7bb7Y7VefrPbmk-87ptHE2znnkTZBrc/edit?usp=sharing
 
 These comments are provided to support a new effort at a realistic, plausible,
 and community-driven Strategic Plan for Data Intensive Biomedical Research. The
