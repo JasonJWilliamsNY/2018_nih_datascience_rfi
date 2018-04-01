@@ -61,9 +61,9 @@ or anyone else.
     Software Carpentry instructor and former foundation Chair, External consultant to
     NIH Data Commons, #underrepresentedinSTEM
 
-- Michael Love - University of North Carolina at Chapel Hill, NC
-  - **Bio sentence**: statistician and computational biologists, I maintain a number of
-    R/Bioconductor packages and workflows for genomic data analysis.
+- Rochelle E. Tractenberg, Georgetown University, Washington, DC.
+  - Bio Sentence: psychometrician, biostatistician and research methodologist, specializing
+    in developing and validating difficult-to-measure outcomes including those in biomedical research and in higher/graduate/post graduate education. Chair (2017-2019) Committee on Professional Ethics of the American Statistical Association.
 
 - Bastian Greshake Tzovaras - Lawrence Berkeley National Laboratory, CA
   - **Bio sentence**: Co-founder of openSNP, Director of Research at Open Humans and

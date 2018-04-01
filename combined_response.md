@@ -10,9 +10,11 @@ identified important goals. However, careful review of the current Plan reveals
 the impossibility of translating anything articulated into impactful,
 actionable, and meaningfully measurable implementations. If this document came
 from any organization other than NIH it might be ignored. Instead, the awesome
-weight of NIH recommendations sets up the plausible scenario that many
-investigators (within and outside of NIH) will be guided by an incomplete,
+weight of NIH recommendations - which imply an equally awesome obligation to
+the community for productive criticism -  invites the plausible scenario that
+many investigators (within and outside of NIH) will be guided by an incomplete,
 inaccurate, and dangerously misguided document.
+
 
 To conclude that the SPDS is fundamentally flawed, consider these
 representative metrics copied verbatim from the document:
@@ -99,7 +101,7 @@ Additionally, as an exercise, the NIH review form has been filled out for this
 Plan to explore how a realistic NIH scientific reviewer (who did the exercise)
 might score such a proposal
 
-https://docs.google.com/document/d/1FWS2ITl_zFNd7bb7Y7VefrPbmk-87ptHE2znnkTZBrc/edit?usp=sharing
+https://docs.google.com/document/d/1XxQLORoTm2lkucQz6k3QdgNOARDrvU3zx_svT0PX_c0/edit#
 
 These comments are provided to support a new effort at a realistic, plausible,
 and community-driven Strategic Plan for Data Intensive Biomedical Research. The
