@@ -19,7 +19,7 @@ pull directly from language used here. Only submit comments that represent your
 views; see [guide notice instructions](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-134.html)
 
 P.S. If you like, include a link to this repo in your submitted comments so
-NIH can see updates: https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi 
+NIH can see updates: https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi
 
 
 ## How to contribute
@@ -55,16 +55,20 @@ repo in the response in case it continues to grow). This will be more obvious
 than looking through commit histories, and I will only put any names here if
 you tell me you want acknowledgement - some may wish to be somewhat anonymous.
 
+**Disclaimer**: Contributions are only the personal opinions of the individuals
+that made them, and are not the opinions of other contributors, their employers,
+or anyone else. 
+
+
 - -Jason Williams - Cold Spring Harbor Laboratory, NY
   - **Bio sentence**: Diversity advocate, founder CSHL Biological Data Science Meeting,
     Software Carpentry instructor and former foundation Chair, External consultant to
     NIH Data Commons, #underrepresentedinSTEM
-    
+
 - Michael Love - University of North Carolina at Chapel Hill, NC
-  - **Bio sentence**: statistician and computational biologists, I maintain a number of 
+  - **Bio sentence**: statistician and computational biologists, I maintain a number of
     R/Bioconductor packages and workflows for genomic data analysis.
-    
+
 - Bastian Greshake Tzovaras - Lawrence Berkeley National Laboratory, CA
-  - **Bio sentence**: Co-founder of openSNP, Director of Research at Open Humans and 
-    Visiting Scholar at the Berkeley Lab. 
- 
+  - **Bio sentence**: Co-founder of openSNP, Director of Research at Open Humans and
+    Visiting Scholar at the Berkeley Lab.
