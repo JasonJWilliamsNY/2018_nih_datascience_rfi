@@ -12,7 +12,7 @@ Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/r
 
 1. If possible, read the entire [Strategic Plan](https://grants.nih.gov/grants/rfi/NIH-Strategic-Plan-for-Data-Science.pdf),
 if you don't have that much time, read one of the Goal sections most relevant to
-you (should be about 10 minutes of reading).
+you (individual sections are as short as 10 minutes of reading).
 
 2. We have created a preamble and specific responses to each goal in our
 [collected responses](./combined_responses). You may copy and paste all/some/none
