@@ -4,20 +4,21 @@
 
 ##  The appropriateness of the goals of the plan and of the strategies and implementation tactics proposed to achieve them
 
-Regarding Goal 4; Workforce Development, Feldon et.al (PNAS, 2017; https://doi.org/10.1073/pnas.1705783114) concludes that despite $28 million in
-investment by NSF and NIH in training (including workshops/boot camps relevant
-to biomedical data science), much of this training is “not associated with
-observable benefits related to skill development, scholarly productivity, or
-socialization into the academic community.” Clearly, if NIH intends to do better
-it needs to completely reconceive how it approaches training in data science.
+Goal 4: Feldon et.al (PNAS, 2017; https://doi.org/10.1073/pnas.1705783114)
+concludes that despite $28 million in investment by NSF and NIH in training
+(including workshops/boot camps relevant to biomedical data science), much of
+this training is “not associated with observable benefits related to skill
+development, scholarly productivity, or socialization into the academic
+community.” Clearly, if NIH intends to do better it needs to completely
+reconceive how it approaches training in data science.
 
-Goal 4 correctly identifies several reasonable priorities, but proposes
+Goal 4: Several reasonable priorities are identified, but only
 demonstrably ineffective and/or inappropriate approaches and evaluation metrics
-to achieve these goals.
+are proposed to achieve/evaluate these goals.
 
-The inadequacy of the Goal 4 strategy is epitomized by its proposed evaluation
-metric: “the quantity of new data science-related training programs for NIH
-staff and participation in these programs.” This is as unconvincing as
+Goal 4: The inadequacy of the strategies suggested is epitomized by the proposed
+evaluation metric: “the quantity of new data science-related training programs
+for NIH staff and participation in these programs.” This is as unconvincing as
 suggesting a research proposal will be measured in the number of experiments
 performed. In fact, the only metric proposed for evaluation of training is the
 number of training opportunities created. Such an arbitrary and crude metric
@@ -27,7 +28,7 @@ being no shortage of training opportunities from MOOCs to workshops, there is a
 persistent, apparent, and urgent training gap. This inadequate metric is a clear
 red flag that training guided by the proposed plan will accomplish very little.
 
-It is clear that training (Goal 4) is under-prioritized by NIH. In the largest
+Goal 4: It is clear that training is under-prioritized by NIH. In the largest
 survey on unmet needs for life science investigators, NSF investigators report
 in Barone et.al (PLOS Comp. Bio, 2017; https://doi.org/10.1371/journal.pcbi.1005755)
 that their most unmet computational needs are not software, infrastructure or
@@ -35,27 +36,23 @@ compute. Instead it is the need for training; specifically training in
 integration of multiple data types, data and metadata management, and scaling
 analyses to HPC and cloud.
 
-Goal 4 fails to properly account for the role of training in biomedical data
-science and the need to define and measure what constitutes effective training.
-There is no mention made of a serious commitment to evidence-based teaching that
-is needed to design effective short-format courses and workshops. While the
-educational pipeline from at least the undergraduate level and beyond needs
-serious improvement to address biomedical data science, short-format training
-and workshops will play an important role. These workshops must not be
-constructed ad hoc. Typically, training is delivered by staff/faculty with a
-high level of bioinformatics/data science domain expertise, but little to no
-guidance in andragogy, cognitive science, or evaluation.
-
-**Note**: Updates to this response by community members will be found at:
-https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi
+Goal 4: Strategy failed to properly understand  the role of training in
+biomedical data science and the need to define and measure what constitutes
+effective training.There is no mention made of a serious commitment to
+evidence-based teaching that is needed to design effective short-format courses
+and workshops. While the educational pipeline from at least the undergraduate
+level and beyond needs serious improvement to address biomedical data science, short-format training and workshops will play an important role. These workshops
+must not be constructed ad hoc. Typically, training is delivered by
+staff/faculty with a high level of bioinformatics/data science domain expertise,
+but little to no guidance in andragogy, cognitive science, or evaluation.
 
 ## Opportunities for NIH to partner in achieving these goals
 
-We present comments here in the hopes that NIH will consider bold action in this
-area because the problem is solvable and the community of investigators with
-experience in training relevant to biomedical data science has been thinking
-deeply on the topic. The community is relatively small, well connected, and
-should be extensively leveraged in developing robust scalable solutions. It
+Goal 4: We present comments here in the hopes that NIH will consider bold action
+in this area because the problem is solvable and the community of investigators
+with experience in training relevant to biomedical data science has been
+thinking deeply on the topic. The community is relatively small, well connected,
+and should be extensively leveraged in developing robust scalable solutions. It
 should be easy to assemble the 10-20 most important practitioners and educators
 in biomedical data science, confident that they and their second order
 collaborators would constitute a reasonably sized working group that can bring
@@ -64,8 +61,8 @@ aspirational goal, NIH has identified the value in prioritizing data science
 as an area it needs to be at the forefront of but does not have the expertise
 to achieve alone. The community does.
 
-Right now, the single best target for collaboration is the Software and Data
-Carpentry community (Greg Wilson: "Software Carpentry: Lessons Learned".
+Goal 4: Right now, the single best target for collaboration is the Software and
+Data Carpentry community (Greg Wilson: "Software Carpentry: Lessons Learned".
 F1000Research,2016, 3:62 (doi: 10.12688/f1000research.3-62.v2). There are many
 reasons why collaboration here will be tremendously important for NIH to
 succeed. First, the Carpentry community itself represents a global federation
@@ -78,7 +75,7 @@ and scalable approach to building educational content relevant to biomedical
 data science with strong grounding in assessment and pedagogy. It would be
 a tremendous squandering of resources to not build on this foundation.
 
-Additionally, this is an area that especially calls for collaboration with the
+Goal 4: This is an area that especially calls for collaboration with the
 National Science Foundation. NSF already has several strong funded programs that
 are dedicated to understanding the problems of bioinformatics education and
 biomedical data science and developing solutions – the Network for Integrating
@@ -96,13 +93,12 @@ study, preparation, and training for both student groups.
 
 ##  Additional concepts that should be included in the plan
 
-There are a few basic concepts that must be included; and these are (I think)
+Goal 4: There are a few basic concepts that must be included; and these are
 at the right level for a strategic vision document.
 
 - Training is the most unmet need of investigators. Investments that
   under-prioritize training will not realize the value of computational and data
   infrastructure developed.
-
 - Biomedical data science education must not be solely delivered by domain
   experts/investigators training according to what they think is best.
   Curriculum must be developed using evidence-based pedagogical principles.
@@ -129,15 +125,16 @@ at the right level for a strategic vision document.
 
 ## Performance measures and milestones that could be used to gauge the success of elements of the plan and inform course corrections
 
-This question is difficult to answer because there needs to be a defined and
-agreed-upon set of competencies for biomedical data science. From these will
+Goal 4: This question is difficult to answer because there needs to be a defined
+and agreed-upon set of competencies for biomedical data science. From these will
 follow learning objectives and assessments for these objectives. At the next
 stage will be dissemination targets and measures of community use and buy in.
 A workshop could resolve and develop these over the course of a few months.
 
 ## Any other topic the respondent feels is relevant for NIH to consider in developing this strategic plan
 
-The work being done by NSF as well as the Data Science recommendations developed
-by the National Academies are highly relevant and need to be better integrated.
-There is also a unique connection in Data Science to industry. Industry partners
-will continue to lead advances in Data Science relevant to biomedicine.
+Goal 4: The work being done by NSF as well as the Data Science recommendations
+developed by the National Academies are highly relevant and need to be better
+integrated. There is also a unique connection in Data Science to industry.
+Industry partners will continue to lead advances in Data Science relevant to
+biomedicine.
