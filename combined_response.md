@@ -70,7 +70,7 @@ experts in Data Science - preferably, those with expertise in both Data Science
 and biomedical research. As stated in SPDS Goal 4, NIH as an organization does
 not have the expertise in Data Science to plan its strategic direction in this
 area. We recommend that if NIH is committed to a transformative strategy for
-Data Science (and it should be), then the current SPDS should be discarded. A
+Data Science (and it should be), the current SPDS should be discarded. A
 Strategic Plan with meaningful goals that promote the thoughtful integration of
 Data Science with biomedical research representing measurable (not “countable”)
 impact, together with formal and independent evaluation, should be developed
