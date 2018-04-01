@@ -10,6 +10,8 @@ Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/r
 
 ## How to use these comments
 
+**A [Similar RFI](https://nlmdirector.nlm.nih.gov/2018/03/20/next-generation-data-science-research-challenges/) only generated 53 responses. Your voice will be heard!**
+
 1. If possible, read the entire [Strategic Plan](https://grants.nih.gov/grants/rfi/NIH-Strategic-Plan-for-Data-Science.pdf).
 If you don't have that much time, read one of the Goal sections most relevant to
 you (individual sections are as short as 10 minutes of reading).
@@ -32,7 +34,7 @@ Invalid responses (e.g. automated, or in some other way disqualified) will not
 be accepted. Only submit comments that represent your
 views; see [guide notice instructions](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-134.html)
 
-**A [Similar RFI](https://nlmdirector.nlm.nih.gov/2018/03/20/next-generation-data-science-research-challenges/) only generated 53 responses. Your voice will be heard!**
+
 
 **Thanks for your contribution** It is a responsibility to ensure NIH can act
 on the most accurate and best possible advice.
