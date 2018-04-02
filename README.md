@@ -19,8 +19,8 @@ you (individual sections are as short as 10 minutes of reading).
 2. We have created a [preamble.pdf](preamble.md) and specific responses to each
 goal in our [collected responses](./combined_response.md). You may copy and
 paste all/some/none of what you agree with using the online NIH form (step 3).
-**The NIH form has a 500 word limit so consider using one of the attachments**:
-(You can write "see attached" in the comment box)
+**The NIH form has a 500 word limit so consider using one of the attachments**
+(You can write "see attached" in the comment box):
 
 - **[All_documents.pdf](./All_documents.pdf)** : PDF of the Preamble, sample NIH
   review form, and all collected comments
