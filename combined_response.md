@@ -16,7 +16,7 @@ many investigators (within and outside of NIH) will be guided by an incomplete,
 inaccurate, and dangerously misguided document. While the tone of this document
 is necessarily blunt (far more so than if feedback was addressed to an individual
 investigator), it is with the belief that NIH does not simply want feedback
-that says what it wants to hear - the NIH mission is too important for these
+that says what it wants to hear - the NIH mission is too important for
 criticisms to go unheard.
 
 To conclude that the SPDS is fundamentally flawed, consider these
