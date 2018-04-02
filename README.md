@@ -16,24 +16,22 @@ Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/r
 If you don't have that much time, read one of the Goal sections most relevant to
 you (individual sections are as short as 10 minutes of reading).
 
-2. We have created a preamble and specific responses to each goal in our
-[collected responses](./combined_response.md). You may copy and paste all/some/none
-of what you agree with using the online NIH form (step 3). You may modify
-anything you find here, or write your own response (**Please consider submitting
-your own responses here for the community to use, or review even after the
-RFI due date**).
+2. We have created a [preamble.pdf](preamble.md) and specific responses to each
+goal in our [collected responses](./(combined_response.md). You may copy and
+paste all/some/none of what you agree with using the online NIH form (step 3).
+**The NIH form has a 500 word limit so consider using one of the attachments**:
+(You can write "see attached" in the comment box)
 
-> **Tip**: The NIH form only has 5 text submission fields. Copy the preamble into
-> the first field, along with your comments on the "appropriateness of goals."
-> All other subheadings in our combined response doc match the submission form
-> headings.
-> **ALSO**
-> There are character/word limits on the NIH form, so we provide the following
-> PDFs for you to use:
-> - **[All_documents.pdf](./All_documents.pdf)** : PDF of the Preamble, sample NIH review form, and all collected comments
-> - **[combined_response.pdf](combined_response.pdf)** : PDF of the Preamble and all collected comments
-> - **[preamble.pdf](preamble.pdf)** : PDF of the Preamble alone
-> - **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)** : PDF of the sample NIH review
+- **[All_documents.pdf](./All_documents.pdf)** : PDF of the Preamble, sample NIH
+  review form, and all collected comments
+- **[combined_response.pdf](combined_response.pdf)** : PDF of the Preamble and all
+  collected comments
+- **[preamble.pdf](preamble.pdf)** : PDF of the Preamble alone
+- **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)** :  
+  PDF of the sample NIH review
+  
+You may modify anything you find here, or write your own response.(**Please consider submitting your own responses here for the community to use, or review even after the
+RFI due date**).
 
 3. By **April 2, 2018 11:59:59 PM EDT** access the NIH [online form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73), write in and/or
 copy-paste your responses. Please follow all of the form instructions/guidelines,
