@@ -10,11 +10,14 @@ identified important goals. However, careful review of the current Plan reveals
 the impossibility of translating anything articulated into impactful,
 actionable, and meaningfully measurable implementations. If this document came
 from any organization other than NIH it might be ignored. Instead, the awesome
-weight of NIH recommendations - which imply an equally awesome obligation to
+weight of NIH recommendations - which demand an equally awesome obligation to
 the community for productive criticism -  invites the plausible scenario that
 many investigators (within and outside of NIH) will be guided by an incomplete,
-inaccurate, and dangerously misguided document.
-
+inaccurate, and dangerously misguided document. While the tone of this document
+is necessarily blunt (far more so than if feedback was back to an individual
+investigator), it is with the belief that NIH does not simply want feedback
+that says what it wants to hear - the NIH mission is too important for these
+criticisms to go unheard.
 
 To conclude that the SPDS is fundamentally flawed, consider these
 representative metrics copied verbatim from the document:
@@ -64,7 +67,8 @@ is funded will be branded as “successful”. While these goals are important f
 the NIH to function as a data broker, they actually represent characteristics
 to strive for throughout NIH, rather than a Strategic Plan. This plan is
 surprisingly unreflective of prior NIH Data Science activities (NCBC, BD2K) or
-even well-informed planning documents emerging in parallel (NLM Strategic Plan: https://www.nlm.nih.gov/pubs/plan/lrp17/NLM_StrategicReport2017_2027.pdf)
+even praiseworthy and well-informed planning documents emerging in parallel
+(NLM Strategic Plan: https://www.nlm.nih.gov/pubs/plan/lrp17/NLM_StrategicReport2017_2027.pdf).
 
 Data Science is not the progressive extension of clinical research applications,
 and a truly impactful NIH strategy for Data Science must by definition come from
@@ -106,21 +110,21 @@ https://docs.google.com/document/d/1XxQLORoTm2lkucQz6k3QdgNOARDrvU3zx_svT0PX_c0/
 These comments are provided to support a new effort at a realistic, plausible,
 and community-driven Strategic Plan for Data Intensive Biomedical Research. The
 community stands ready to assist NIH in this important work and we urge the
-organization to commit to making this a community effort.
-
+organization to commit to making this a community effort. We thank NIH for the
+work done and going forward to develop the next stages of this plan.
 
 ##  The appropriateness of the goals of the plan and of the strategies and implementation tactics proposed to achieve them
 
 Goal 1: NIH should be applauded for recognizing that historically, funding of
-data resources used funding approaches that were research projects. We agree
-this must change. Also, we agree that tool development and data resources may
-often need distinct funding contexts/expectations.
+data resources used funding approaches that were appropriate for research
+projects. We agree this must change. Also, we agree that tool development
+and data resources may often need distinct funding contexts/expectations.
 
 Goal 1: We agree with the stated need to support the hardening and optimization
 (user-friendliness, computational efficiency, etc.) of innovative tools and
 algorithms.
 
-Goal 1: The Data Commons has generally been driven from bottom-up development by
+Goal 1: The Data Commons has been driven from bottom-up development by
 the community. The Commons is in its early stages and should be allowed to
 function as is. The Commons is the appropriate testbed for many of the
 technological innovations and processes that NIH may ultimately which to explore
@@ -137,7 +141,7 @@ should be used. Maybe; but such an out of context statement is ultimately a
 collection of buzzwords. At best, this is an indication that greater expertise
 is needed to reformulate this document.
 
-Goal 1: Although this is a strategy document, it’s bewildering to imagine the
+Goal 1: Although this is a strategy document, it’s implausible to imagine the
 linking of NIH datasets as described in objective 1-2 can be elucidated in a
 single thin paragraph. We have no idea how the “Biomedical Data Translator” will
 work but can only imagine it will need to function at least as well as the
@@ -150,7 +154,7 @@ absolutely a correct (but difficult) target for NIH. It is impossible to believe
 that anything in the implementation or metrics will demonstrably achieve this.
 What appears to be one problem is likely several problems, each of which is
 worthy of study to generate actionable solutions. Usability is identified as
-target to optimize for, and while this may be correct, no metrics proposed seem
+target to optimize for and while this may be correct, no metrics proposed seem
 to measure this. While there may be real and important distinctions between
 databases and knowledgebases, we again suggest no convincing metrics have been
 proposed here. The statement that “Funding approaches used for databases and
@@ -165,10 +169,10 @@ quantity of data generated by the plurality of extramural investigators as
 somehow different my lead to policies which work for the NIH, but don’t work for
 the community, leading to irreconcilable standards.
 
-Goal 2: Implementation tactics proposed are bewilderingly lazy. Under this
+Goal 2: Implementation tactics proposed are bewildering. Under this
 subheading appears the bullet “Ensure privacy and security.” While it is
 gratifying that the word privacy finally appears 11 pages into this 26-page
-document, this is not a tactic.  
+document, this is not in any way an implementation tactic.
 
 Goal 2: Evaluation metrics are horrific. Quantity of datasets and funded
 databases does nothing more than account for the fact that NIH spent money.
@@ -198,9 +202,9 @@ Goal 3: Although the SPDS does not make any strategy clear, the goal of
 supporting tools and workflows (objective 3-1) is a good one. We further agree
 that partnership is exactly the way that this needs to be pursued.
 
-Goal 3: The metrics for this sophisticated set of objectives are catastrophic.
-There is no way that the objectives stated for Goal 3 can be effectively
-measured or succeed.
+Goal 3: The metrics proposed for this sophisticated set of objectives are
+catastrophic.There is no way that the objectives stated for Goal 3 can be
+effectively measured or set a useful standard for success.
 
 Goal 4: Feldon et.al (PNAS, 2017; https://doi.org/10.1073/pnas.1705783114)
 concludes that despite $28 million in investment by NSF and NIH in training
@@ -259,7 +263,7 @@ and biomedical data which NIH currently has not updated to accommodate the
 vision of what biomedical data science might achieve.  
 
 Goal 5: Evaluation is inappropriate/unrevealing count metrics that will not
-indicate whether or not FAIR principles are realized.
+indicate whether FAIR principles are realized or not.
 
 ## Opportunities for NIH to partner in achieving these goals
 
@@ -286,7 +290,7 @@ community involvement.
 Goal 4: We present comments here in the hopes that NIH will consider bold action
 in this area because the problem is solvable and the community of investigators
 with experience in training relevant to biomedical data science has been
-thinking deeply on the topic. The community is relatively small, well connected,
+thinking deeply on the topic. The community is relatively small, well-connected,
 and should be extensively leveraged in developing robust scalable solutions. It
 should be easy to assemble the 10-20 most important practitioners and educators
 in biomedical data science, confident that they and their second order
@@ -329,11 +333,12 @@ study, preparation, and training for both student groups.
 ##  Additional concepts that should be included in the plan
 
 Goal 1: Grafting “Data Science” onto NIH is essentially a massive retrofitting
-exercise. If I had to pick one area to think of, it is how emerging techniques
-(Long-read sequencing, machine learning approaches, CIRSPR, etc.) and how we
-treat that related data should be a primary target before the essentially get
-too big to go back. The community of users is smaller, and fixing emerging
-challenges seems like a more manageable focus for fomenting community consensus.
+exercise. If we had to pick one area to think of, it is focusing on emerging
+techniques (Long-read sequencing, machine learning approaches, CIRSPR, etc.)
+and how NIH manages these data that could be a primary target for envisioning
+a data science-friendly ecosystem. The community of users is smaller, and
+fixing emerging challenges seems like a manageable focus for fomenting
+community consensus.
 
 Goal 2: Conceptually, this goal needs to clearly differentiate technological
 obstacles from process obstacles. In reality, many of the needed technologies
@@ -363,31 +368,29 @@ artifacts, technical biases, batch effects, outliers, unaccounted for or
 unexpected heterogeneity, need for data transformation, or other various data
 quality issues that will cause serious problems for downstream methods, whether
 they be statistical methods, machine learning, deep learning, artificial
-intelligence or otherwise. In particular, machine learning and statistical methods
-rely on the quality of the metadata and the ability to provide consistent terms
-and judgements on describing samples across all datasets from consortia and from
-individual labs.
-
-Downstream methods may either fail to detect the
-relevant signal (loosely categorized as "false negatives") or may produce many
-spurious results which are purely associations with technical aspects of the
-data ("false positives"). Furthermore, Basic EDA can uncover biological signal
-that may be missed, such as biologically relevant heterogeneity, e.g. subtypes
-of disease with signal present in molecular data.
+intelligence or otherwise. In particular, machine learning and statistical
+methods rely on the quality of the metadata and the ability to provide
+consistent terms and judgements on describing samples across all datasets from
+consortia and from individual labs. Downstream methods may either fail to detect
+the relevant signal (loosely categorized as "false negatives") or may produce
+many spurious results which are purely associations with technical aspects of
+the data ("false positives"). Furthermore, Basic EDA can uncover biological
+signal that may be missed, such as biologically relevant heterogeneity, e.g.
+subtypes of disease with signal present in molecular data.
 
 Goal 3: Computational reproducibilty and supporting EDA should be components of
 both NIH funded tool development, as well as the plan to "Enhance Workforce
 Development for Biomedical Data Science" (Goal 4).
 
 Goal 4: There are a few basic concepts that must be included; and these are
-at the right level for a strategic vision document.
+potentially at the right level for a strategic vision document:
 
 - Training is the most unmet need of investigators. Investments that
   under-prioritize training will not realize the value of computational and data
   infrastructure developed.
 - Biomedical data science education must not be solely delivered by domain
-  experts/investigators training according to what they think is best.
-  Curriculum must be developed using evidence-based pedagogical principles.
+  experts/investigators training according to what they think is best. Instead,
+  curriculum must be developed using evidence-based pedagogical principles.
 - Collaboration is key. Training that is developed as the unitary creation of
   NIH will fail. Training must be developed by a community that can maintain and
   sustain learning content.
@@ -442,7 +445,8 @@ appropriately fund) hard infrastructure (computation/storage, etc.), the greater
 attention must be paid to funding soft-infrastructure – training, documentation,
 and support that bring investigators into a community of practice. Note that
 Barone et.al (https://doi.org/10.1371/journal.pcbi.1005755 ) replicates the
-earlier findings of EDUCAUSE (https://net.educause.edu/ir/library/pdf/ers0605/rs/ers0605w.pdf); organizations planning for cyberinfrastructure development tend to underestimate
+earlier findings of EDUCAUSE (https://net.educause.edu/ir/library/pdf/ers0605/rs/ers0605w.pdf); organizations
+planning for cyberinfrastructure development tend to underestimate
 and underfund the training needed to use infrastructure. Any infrastructure
 development must be matched by clear, measurable learning outcomes to ensure
 that investigators can actually make intended use of the investments.
