@@ -31,7 +31,7 @@ RFI due date**).
 > There are character/word limits on the NIH form, so we provide the following
 > PDFs for you to use:
 > - **[All_documents.pdf](./All_documents.pdf)** : PDF of the Preamble, sample NIH review form, and all collected comments
-> - **[combined_response.pdf](combined_response.pdf)** : PDF of the Preamble alone
+> - **[combined_response.pdf](combined_response.pdf)** : PDF of the Preamble and all collected comments
 > - **[preamble.pdf](preamble.pdf)** : PDF of the Preamble alone
 > - **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)** : PDF of the sample NIH review
 
