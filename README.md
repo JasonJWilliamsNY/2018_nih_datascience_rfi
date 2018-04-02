@@ -75,3 +75,12 @@ or anyone else.
 
 - Alexander (Sasha) Wait Zaranek - Harvard University
   - **Bio sentence**: Co-Founder, Harvard Personal Genome Project (PGP) Chief Scientist, Curoverse Research Founder https://arvados.org, Head of Quantified Biology, Veritas Genetics
+
+## Other public responses
+
+These are other responses to the RFI, posted here to represent the diversity
+of opinions and in the hopes of continuing the conversation. They are not
+related to the contribution in this repo, and are only the opinions of their
+respective authors.
+
+- Hary Hochheiser et.al., University of Pittsburg [link to document](https://docs.google.com/document/d/1ibfFtWu75OQelcOUj-EXLCWc1qox0xugE_bqfdVF8Kc/edit)
