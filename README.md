@@ -84,3 +84,4 @@ related to the contribution in this repo, and are only the opinions of their
 respective authors.
 
 - Hary Hochheiser et.al., University of Pittsburgh [link to document](https://docs.google.com/document/d/1ibfFtWu75OQelcOUj-EXLCWc1qox0xugE_bqfdVF8Kc/edit)
+- Dimitri Yatsenko, Vathes LLC/Baylor College of Medicine [Link to document](https://github.com/dimitri-yatsenko/NIH-RFI-Strategic-Plan-for-Data-Science)
