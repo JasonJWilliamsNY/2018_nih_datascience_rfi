@@ -27,6 +27,13 @@ RFI due date**).
 > the first field, along with your comments on the "appropriateness of goals."
 > All other subheadings in our combined response doc match the submission form
 > headings.
+> **ALSO**
+> There are character/word limits on the NIH form, so we provide the following
+> PDFs for you to use:
+> **[All_documents.pdf](./All_documents.pdf)** : PDF of the Preamble, sample NIH review form, and all collected comments
+> **[combined_response.pdf](combined_response.pdf)** : PDF of the Preamble alone
+> **[preamble.pdf](preamble.pdf)** : PDF of the Preamble alone
+> **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)** : PDF of the sample NIH review
 
 3. By **April 2, 2018 11:59:59 PM EDT** access the NIH [online form](https://grants.nih.gov/grants/rfi/rfi.cfm?ID=73), write in and/or
 copy-paste your responses. Please follow all of the form instructions/guidelines,
