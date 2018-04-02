@@ -14,7 +14,7 @@ weight of NIH recommendations - which demand an equally awesome obligation to
 the community for productive criticism -  invites the plausible scenario that
 many investigators (within and outside of NIH) will be guided by an incomplete,
 inaccurate, and dangerously misguided document. While the tone of this document
-is necessarily blunt (far more so than if feedback was back to an individual
+is necessarily blunt (far more so than if feedback was addressed to an individual
 investigator), it is with the belief that NIH does not simply want feedback
 that says what it wants to hear - the NIH mission is too important for these
 criticisms to go unheard.
