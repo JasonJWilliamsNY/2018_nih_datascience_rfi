@@ -363,7 +363,12 @@ artifacts, technical biases, batch effects, outliers, unaccounted for or
 unexpected heterogeneity, need for data transformation, or other various data
 quality issues that will cause serious problems for downstream methods, whether
 they be statistical methods, machine learning, deep learning, artificial
-intelligence or otherwise. Downstream methods may either fail to detect the
+intelligence or otherwise. In particular, machine learning and statistical methods
+rely on the quality of the metadata and the ability to provide consistent terms
+and judgements on describing samples across all datasets from consortia and from
+individual labs.
+
+Downstream methods may either fail to detect the
 relevant signal (loosely categorized as "false negatives") or may produce many
 spurious results which are purely associations with technical aspects of the
 data ("false positives"). Furthermore, Basic EDA can uncover biological signal
