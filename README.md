@@ -73,7 +73,7 @@ or anyone else.
   - **Bio sentence**: Co-founder of openSNP, Director of Research at Open Humans and
     Visiting Scholar at the Berkeley Lab.
 
-- Alexander (Sasha) Wait Zaranek - Harvard University
+- Alexander (Sasha) Wait Zaranek - Harvard University, MA
   - **Bio sentence**: Co-Founder, Harvard Personal Genome Project (PGP) Chief Scientist, Curoverse Research Founder https://arvados.org, Head of Quantified Biology, Veritas Genetics
 
 ## Other public responses
