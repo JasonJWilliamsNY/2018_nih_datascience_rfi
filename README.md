@@ -27,8 +27,7 @@ paste all/some/none of what you agree with using the online NIH form (step 3).
 - **[combined_response.pdf](combined_response.pdf)** : PDF of the Preamble and all
   collected comments
 - **[preamble.pdf](preamble.pdf)** : PDF of the Preamble alone
-- **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)** :  
-PDF of the sample NIH review
+- **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)**:  PDF of the sample NIH review
 
 You may modify anything you find here, or write your own response.(**Please consider submitting your own responses here for the community to use, or review even after the
 RFI due date**).
