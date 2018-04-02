@@ -16,7 +16,7 @@ Responses are due April 2nd, 2018 on [this form](https://grants.nih.gov/grants/r
 If you don't have that much time, read one of the Goal sections most relevant to
 you (individual sections are as short as 10 minutes of reading).
 
-2. We have created specific[responses](./combined_response.md) to each of the
+2. We have created specific [responses](./combined_response.md) to each of the
 Plan's stated goals. You may copy and paste all/some/none of what you agree with
 using the online NIH form (step 3).
 **The NIH form has a 500 word limit so consider using one of the attachments**
