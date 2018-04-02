@@ -65,10 +65,13 @@ or anyone else.
     Software Carpentry instructor and former foundation Chair, External consultant to
     NIH Data Commons, #underrepresentedinSTEM
 
-- Rochelle E. Tractenberg, Georgetown University, Washington, DC.
-  - Bio Sentence: psychometrician, biostatistician and research methodologist, specializing
+- Rochelle E. Tractenberg - Georgetown University, Washington, DC.
+  - **Bio Sentence**: psychometrician, biostatistician and research methodologist, specializing
     in developing and validating difficult-to-measure outcomes including those in biomedical research and in higher/graduate/post graduate education. Chair (2017-2019) Committee on Professional Ethics of the American Statistical Association.
 
 - Bastian Greshake Tzovaras - Lawrence Berkeley National Laboratory, CA
   - **Bio sentence**: Co-founder of openSNP, Director of Research at Open Humans and
     Visiting Scholar at the Berkeley Lab.
+
+- Alexander (Sasha) Wait Zaranek - Harvard University
+  - **Bio sentence**: Co-Founder, Harvard Personal Genome Project (PGP) Chief Scientist, Curoverse Research Founder https://arvados.org, Head of Quantified Biology, Veritas Genetics
