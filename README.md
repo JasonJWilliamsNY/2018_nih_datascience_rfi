@@ -83,4 +83,4 @@ of opinions and in the hopes of continuing the conversation. They are not
 related to the contribution in this repo, and are only the opinions of their
 respective authors.
 
-- Hary Hochheiser et.al., University of Pittsburg [link to document](https://docs.google.com/document/d/1ibfFtWu75OQelcOUj-EXLCWc1qox0xugE_bqfdVF8Kc/edit)
+- Hary Hochheiser et.al., University of Pittsburgh [link to document](https://docs.google.com/document/d/1ibfFtWu75OQelcOUj-EXLCWc1qox0xugE_bqfdVF8Kc/edit)
