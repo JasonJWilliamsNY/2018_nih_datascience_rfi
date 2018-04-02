@@ -17,7 +17,7 @@ If you don't have that much time, read one of the Goal sections most relevant to
 you (individual sections are as short as 10 minutes of reading).
 
 2. We have created a [preamble.pdf](preamble.md) and specific responses to each
-goal in our [collected responses](./(combined_response.md). You may copy and
+goal in our [collected responses](./combined_response.md). You may copy and
 paste all/some/none of what you agree with using the online NIH form (step 3).
 **The NIH form has a 500 word limit so consider using one of the attachments**:
 (You can write "see attached" in the comment box)
@@ -28,8 +28,8 @@ paste all/some/none of what you agree with using the online NIH form (step 3).
   collected comments
 - **[preamble.pdf](preamble.pdf)** : PDF of the Preamble alone
 - **[StrategicPlan_NIH_review30March2018.pdf](StrategicPlan_NIH_review30March2018.pdf)** :  
-  PDF of the sample NIH review
-  
+PDF of the sample NIH review
+
 You may modify anything you find here, or write your own response.(**Please consider submitting your own responses here for the community to use, or review even after the
 RFI due date**).
 
