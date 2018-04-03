@@ -85,3 +85,5 @@ respective authors.
 
 - Hary Hochheiser et.al., University of Pittsburgh [link to document](https://docs.google.com/document/d/1ibfFtWu75OQelcOUj-EXLCWc1qox0xugE_bqfdVF8Kc/edit)
 - Dimitri Yatsenko, Vathes LLC/Baylor College of Medicine [Link to document](https://github.com/dimitri-yatsenko/NIH-RFI-Strategic-Plan-for-Data-Science)
+- Michael Love, UNC Chapel Hill [link to document](https://github.com/mikelove/2018_nih_datascience_rfi)
+- DJ Patel, Former U.S. Cheif Data Scientist [link to document](https://www.linkedin.com/pulse/data-science-nih-healthcare-dj-patil/)
