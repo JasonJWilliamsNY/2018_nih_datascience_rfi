@@ -87,3 +87,4 @@ respective authors.
 - Dimitri Yatsenko, Vathes LLC/Baylor College of Medicine: [link to document](https://github.com/dimitri-yatsenko/NIH-RFI-Strategic-Plan-for-Data-Science)
 - Michael Love, UNC Chapel Hill: [link to document](https://github.com/mikelove/2018_nih_datascience_rfi)
 - DJ Patel, Former U.S. Cheif Data Scientist: [link to document](https://www.linkedin.com/pulse/data-science-nih-healthcare-dj-patil/)
+- Rafael Irizarry, Harvard T.H. Chan School of Public Health: [link to document](https://simplystatistics.org/2018/04/02/input-on-the-draft-nih-strategic-plan-for-data-science/)
